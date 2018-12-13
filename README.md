@@ -1,8 +1,8 @@
 # UC Berkeley Data Analytics and Visualization 
 #### 6-month Bootcamp with a commitment of 10 hours of in class and 20 hours out of class a week
 ### Skills Learned
-#### Advanced Excel
-* Pivot Tables
+#### Advanced Excel               
+* Pivot Tables                 
 * VBA Scripting
 #### Fundamental Statistics
 * Modeling
