@@ -50,7 +50,7 @@ Your final script must be able to handle any such similarly structured dataset i
 
 ## Option 2: PyPoll
 
-![Vote-Counting](Images/Vote_counting.jpg)
+![Vote-Counting](Images/PyPoll.jpg)
 
 In this challenge, you are tasked with helping a small, rural town modernize its vote-counting process. (Up until now, Uncle Cleetus had been trustfully tallying them one-by-one, but unfortunately, his concentration isn't what it used to be.)
 
@@ -86,7 +86,7 @@ Your final script must be able to handle any such similarly-structured dataset i
 
 ## Option 3: PyBoss
 
-![Boss](Images/boss.jpg)
+![Boss](Images/PyBoss.jpg)
 
 In this challenge, you get to be the _boss_. You oversee hundreds of employees across the country developing Tuna 2.0, a world-changing snack food based on canned tuna fish. Alas, being the boss isn't all fun, games, and self-adulation. The company recently decided to purchase a new HR system, and unfortunately for you, the new system requires employee records be stored completely differently.
 
@@ -126,7 +126,7 @@ Emp ID,First Name,Last Name,DOB,SSN,State
 
 ## Option 4: PyParagraph
 
-![Language](Images/language.jpg)
+![Language](Images/PyParagraph.jpg)
 
 In this challenge, you get to play the role of chief linguist at a local learning academy. As chief linguist, you are responsible for assessing the complexity of various passages of writing, ranging from the sophomoric Twilight novel to the nauseatingly high-minded research article. Having read so many passages, you've since come up with a fairly simple set of metrics for assessing complexity.
 
